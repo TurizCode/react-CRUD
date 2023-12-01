@@ -1,0 +1,72 @@
+[
+{
+    "_id": "656194f5134d114661377afe",
+    "name": "soap",
+    "quantity": 5,
+    "price": 5,
+    "image": "https://images.pexels.com/photos/773252/pexels-photo-773252.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "createdAt": "2023-11-25T06:32:21.163Z",
+    "updatedAt": "2023-11-25T06:32:21.163Z",
+    "__v": 0
+},
+{
+    "_id": "65619f4d134d114661377b02",
+    "name": "soy sauce",
+    "quantity": 4,
+    "price": 2,
+    "image": "https://images.pexels.com/photos/773252/pexels-photo-773252.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "createdAt": "2023-11-25T07:16:29.679Z",
+    "updatedAt": "2023-11-25T07:16:29.679Z",
+    "__v": 0
+},
+{
+    "_id": "6561ca0b088e81f91b1aab7c",
+    "name": "veggies",
+    "quantity": 12,
+    "price": 3,
+    "image": "https://images.pexels.com/photos/773252/pexels-photo-773252.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "createdAt": "2023-11-25T10:18:51.884Z",
+    "updatedAt": "2023-11-25T16:31:15.099Z",
+    "__v": 0
+},
+{
+    "_id": "6562216e6fa66ba47e14d69b",
+    "name": "egg",
+    "quantity": 20,
+    "price": 2,
+    "image": "https://images.pexels.com/photos/773252/pexels-photo-773252.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "createdAt": "2023-11-25T16:31:42.584Z",
+    "updatedAt": "2023-11-25T16:31:42.584Z",
+    "__v": 0
+},
+{
+    "_id": "656225dd6d9bebda49fb2050",
+    "name": "bread",
+    "quantity": 5,
+    "price": 2,
+    "image": "https://images.pexels.com/photos/773252/pexels-photo-773252.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "createdAt": "2023-11-25T16:50:37.115Z",
+    "updatedAt": "2023-11-25T16:50:37.115Z",
+    "__v": 0
+},
+{
+    "_id": "6562f3c28dcf0ca2a3a1524b",
+    "name": "lemonade",
+    "quantity": 7,
+    "price": 3,
+    "image": "https://images.pexels.com/photos/773252/pexels-photo-773252.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "createdAt": "2023-11-26T07:29:06.855Z",
+    "updatedAt": "2023-11-26T07:29:06.855Z",
+    "__v": 0
+},
+{
+    "_id": "656836906ba461a298b095b5",
+    "name": "cookies",
+    "quantity": 7,
+    "price": 10,
+    "image": "https://images.pexels.com/photos/773252/pexels-photo-773252.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "createdAt": "2023-11-30T07:15:28.960Z",
+    "updatedAt": "2023-11-30T07:15:28.960Z",
+    "__v": 0
+}
+]
